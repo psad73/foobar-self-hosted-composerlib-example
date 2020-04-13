@@ -1,0 +1,17 @@
+{
+    "name": "psad/Foo",
+    "authors": [
+        {
+            "name": "Paweł Sadowski",
+            "email": "psad73@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "psad\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.3.0"
+    }
+}
